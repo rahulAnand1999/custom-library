@@ -1,0 +1,14 @@
+# .gitignore
+node_modules/
+dist/
+build/
+*.log
+*.tgz
+.DS_Store
+.env
+.env.local
+.env.production
+coverage/
+.nyc_output/
+.vscode/
+.idea/

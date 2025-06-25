@@ -1,0 +1,14 @@
+# .npmignore
+src/
+tests/
+examples/
+*.test.js
+*.test.ts
+.github/
+.gitignore
+rollup.config.js
+babel.config.js
+jest.config.js
+.eslintrc.js
+.travis.yml
+.circleci/
